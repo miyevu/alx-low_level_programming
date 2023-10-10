@@ -4,9 +4,9 @@
  * main - print _putchar
 
  * is written by mbah
-  
- * function - description
- 
+
+ * Description: This is used to print characters
+
  * Return: 0
 
  */
