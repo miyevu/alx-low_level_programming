@@ -4,7 +4,9 @@
  * main - print _putchar
 
  * is written by mbah
-
+  
+ * function - description
+ 
  * Return: 0
 
  */
