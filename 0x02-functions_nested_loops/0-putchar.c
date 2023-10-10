@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - print the word  putchar followed by a new line
- * Description:It should not return a value.
+ * main - print putchar followed by a new line
+ * Description:you are not allowed to include standard libraries.
  * Return: 0
  */
 int main(void)
